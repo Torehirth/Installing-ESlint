@@ -3,6 +3,8 @@
 - Steps 1-3: These steps need to be done on every repository/project to make ESlint work.
 - Steps 4-5: The node_modules folder is huge, and because of that, we don't want to push this folder to the remote (GitHub) repository.
 
+---
+
 ### CLI commands:
 <ol>
   <li>Initialize npm: "npm init"</li>
