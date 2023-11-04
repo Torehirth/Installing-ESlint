@@ -13,7 +13,7 @@
   npm init
   ```
 
-  <li>Install ESlint and JSON package:</li>
+  <li>Install ESlint:</li>
   
   ```HTML
   npm install -D eslint
