@@ -1,6 +1,7 @@
 # Installing ESlint and JSON package through the Command Line
 
-These steps needs to be done on every repository.
+- These steps need to be done on every repository.
+- The node_modules folder is huge, and because of that, we don't want to push this folder to the remote (GitHub) repository - (step 4-5).
 
 ### CLI commands:
 <ol>
@@ -28,7 +29,7 @@ These steps needs to be done on every repository.
   touch .gitignore
   ```
 
-  <li>Inside .giitignore file write: "node_modules/" (this step is for not pushing the node_modules folder to Github repo).></li>
+  <li>Inside .giitignore file write: "node_modules/"</li>
 
   ```html
   node_modules/
