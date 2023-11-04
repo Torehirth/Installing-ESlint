@@ -38,3 +38,26 @@
   ```
 
 </ol>
+
+---
+### GIT commands for pushing to repo:
+<ol>
+  <li>Stash files:</li>
+
+  ```HTML
+  git add .
+  ```
+
+  <li>Commit:</li>
+
+  ```HTML
+  git commit -m "commit message"
+  ```
+
+  <li>Push:</li>
+  
+  ```HTML
+  git push
+  ```
+
+</ol>
