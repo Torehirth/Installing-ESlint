@@ -7,31 +7,31 @@
 
 ### CLI commands:
 <ol>
-  <li>Initialize npm: "npm init"</li>
+  <li>Initialize npm:</li>
 
    ```HTML
   npm init
   ```
 
-  <li>Install ESlint and JSON package: "npm install -D eslint"</li>
+  <li>Install ESlint and JSON package:</li>
   
   ```HTML
   npm install -D eslint
   ```
   
-  <li>Initialize ESlint: "npm init @eslint/config"</li>
+  <li>Initialize ESlint:</li>
 
   ```HTML
   npm init @eslint/config
   ```
 
-  <li>Make Git ignore file (Git Bash): "touch .gitignore"</li>
+  <li>Make Git ignore file (Git Bash):</li>
 
   ```HTML
   touch .gitignore
   ```
 
-  <li>Inside .giitignore file write: "node_modules/"</li>
+  <li>Inside .giitignore file write:</li>
 
   ```HTML
   node_modules/
