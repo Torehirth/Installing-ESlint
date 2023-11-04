@@ -28,12 +28,12 @@
 
   <li>Make Git ignore file:</li>
   
-<u>Git Bash:
+*Git Bash:*
 
   ```HTML
   touch .gitignore
   ```
-Powershell:
+*Powershell:*
 
   ```HTML
   new-file .gitignore
