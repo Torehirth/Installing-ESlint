@@ -1,4 +1,6 @@
-# Installing ESlint and JSON package inside repository
+# Installing ESlint and JSON package through the Command Line
+
+These steps needs to be done on every repository.
 
 ### CLI commands:
 <ol>
