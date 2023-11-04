@@ -27,6 +27,7 @@
   ```
 
   <li>Make Git ignore file:</li>
+  
 Git Bash:
 
   ```HTML
