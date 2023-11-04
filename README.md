@@ -5,7 +5,7 @@
   <li>Initialize npm: "npm init"</li>
   <li>Install ESlint and JSON package: "npm install -D eslint"</li>
   
-  ```js
+  ```html
   npm install -D eslint
   ```
   
