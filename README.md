@@ -19,7 +19,7 @@
   npm install -D eslint
   ```
   
-  <li>Initialize ESlint:</li>
+  <li>Create ESlint config file:</li>
 
   ```HTML
   npm init @eslint/config
