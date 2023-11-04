@@ -31,7 +31,7 @@
   touch .gitignore
   ```
 
-  <li>Inside .giitignore file write:</li>
+  <li>Inside .gitignore file write:</li>
 
   ```HTML
   node_modules/
