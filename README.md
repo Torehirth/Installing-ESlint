@@ -28,7 +28,7 @@
 
   <li>Make Git ignore file:</li>
   
-<u>Git Bash:</u>
+<u>Git Bash:
 
   ```HTML
   touch .gitignore
