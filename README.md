@@ -40,7 +40,7 @@
 </ol>
 
 ---
-### GIT commands for pushing to repo:
+### GIT commands for pushing changes to repo:
 <ol>
   <li>Stash files:</li>
 
