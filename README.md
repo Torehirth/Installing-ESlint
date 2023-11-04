@@ -1,4 +1,4 @@
-# Installing ESlint and JSON package through the Command Line
+# Installing ESlint and creating JSON package through the Command Line
 
 - Steps 1-3: These steps need to be done on every repository/project to make ESlint work.
 - Steps 4-5: The node_modules folder is huge, and because of that, we don't want to push this folder to the remote (GitHub) repository.
