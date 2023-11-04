@@ -26,10 +26,16 @@
   npm init @eslint/config
   ```
 
-  <li>Make Git ignore file (Git Bash):</li>
+  <li>Make Git ignore file:</li>
+Git Bash:
 
   ```HTML
   touch .gitignore
+  ```
+Powershell:
+
+  ```HTML
+  new-file .gitignore
   ```
 
   <li>Inside .gitignore file write:</li>
