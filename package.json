@@ -1,0 +1,14 @@
+{
+  "name": "installing-eslint",
+  "version": "1.0.0",
+  "description": "- Steps 1-3: These steps need to be done on every repository/project to make ESlint work.\r - Steps 4-5: The node_modules folder is huge, and because of that, we don't want to push this folder to the remote (GitHub) repository.\r - The ESlint extension in VS Code has to be installed as well, but this is a one-time install.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.53.0"
+  }
+}
