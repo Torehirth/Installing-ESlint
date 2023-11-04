@@ -7,7 +7,7 @@
 
 ### CLI commands:
 <ol>
-  <li>Initialize npm:</li>
+  <li>Creating JSON package:</li>
 
    ```HTML
   npm init
