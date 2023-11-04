@@ -2,6 +2,7 @@
 
 - Steps 1-3: These steps need to be done on every repository/project to make ESlint work.
 - Steps 4-5: The node_modules folder is huge, and because of that, we don't want to push this folder to the remote (GitHub) repository.
+- The ESlint extension in VS Code has to be installed as well, but this is a one-time install.
 
 ---
 
