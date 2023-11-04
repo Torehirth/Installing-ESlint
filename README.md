@@ -1,37 +1,37 @@
 # Installing ESlint and JSON package through the Command Line
 
-- These steps need to be done on every repository.
-- The node_modules folder is huge, and because of that, we don't want to push this folder to the remote (GitHub) repository - (step 4-5).
+- Steps 1-3: These steps need to be done on every repository/project to make ESlint work.
+- Steps 4-5: The node_modules folder is huge, and because of that, we don't want to push this folder to the remote (GitHub) repository.
 
 ### CLI commands:
 <ol>
   <li>Initialize npm: "npm init"</li>
 
-   ```html
+   ```HTML
   npm init
   ```
 
   <li>Install ESlint and JSON package: "npm install -D eslint"</li>
   
-  ```html
+  ```HTML
   npm install -D eslint
   ```
   
   <li>Initialize ESlint: "npm init @eslint/config"</li>
 
-  ```html
+  ```HTML
   npm init @eslint/config
   ```
 
   <li>Make Git ignore file (Git Bash): "touch .gitignore"</li>
 
-  ```html
+  ```HTML
   touch .gitignore
   ```
 
   <li>Inside .giitignore file write: "node_modules/"</li>
 
-  ```html
+  ```HTML
   node_modules/
   ```
 
