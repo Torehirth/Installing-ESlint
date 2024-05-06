@@ -36,7 +36,7 @@
 *Powershell:*
 
   ```HTML
-  new-file .gitignore
+  new-item .gitignore
   ```
 
   <li>Inside .gitignore file write:</li>
