@@ -15,7 +15,7 @@
   ```
 
   <li>Install ESlint:</li>
-  installs version 8
+  (installs version 8)
   
   ```HTML
   npm install -D eslint@8  
