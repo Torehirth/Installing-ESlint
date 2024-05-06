@@ -15,9 +15,10 @@
   ```
 
   <li>Install ESlint:</li>
+  installs version 8
   
   ```HTML
-  npm install -D eslint@8  /* installs version 8*/
+  npm install -D eslint@8  
   ```
   
   <li>Create ESlint config file:</li>
