@@ -4,7 +4,9 @@
 - Steps 4-5: The node_modules folder is huge, and because of that, we don't want to push this folder to the remote (GitHub) repository.
 - The ESlint extension in VS Code has to be installed as well, but this is a one-time install.
 
+
 ### CLI commands:
+
 <ol>
   <li>Creating JSON package:</li>
 
@@ -46,7 +48,9 @@
 
 ---
 
+
 ### Probable cause if you're having trouble ignoring node_modules
+
 </ol>
 
 <ol>
@@ -82,7 +86,9 @@
  
 ---
 
+
 ### GIT commands for pushing changes to repo:
+
 <ol>
   <li>Stash files:</li>
 
