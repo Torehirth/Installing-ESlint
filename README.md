@@ -46,9 +46,44 @@
   node_modules/
   ```
 
+---
+
+### Probable cause if you're having trouble ignoring node_modules
 </ol>
 
+<ol>
+  <li>Ensure node_modules is listed in .gitignore:</li>
+
+  ```HTML
+  echo "node_modules/" >> .gitignore
+  ```
+
+  <li>Remove node_modules from being tracked by Git:</li>
+
+  ```HTML
+  git rm -r --cached node_modules
+  ```
+
+  <li>Add .gitignore to the staging area and commit the changes:</li>
+
+  ```HTML
+  git add .gitignore
+  ```
+
+  ```HTML
+  git commit -m "Update .gitignore to exclude node_modules"
+  ```
+
+  <li>Verify node_modules is now ignored:</li>
+
+  ```HTML
+  git status
+  ```
+
+</ol>
+ 
 ---
+
 ### GIT commands for pushing changes to repo:
 <ol>
   <li>Stash files:</li>
