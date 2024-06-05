@@ -49,7 +49,7 @@
 ---
 ---
 
-### Probable cause if you're having trouble ignoring node_modules
+### Probable cause if you're having trouble ignoring node_modules:
 
 </ol>
 
