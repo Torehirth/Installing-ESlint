@@ -47,7 +47,7 @@
   ```
 
 ---
-
+---
 
 ### Probable cause if you're having trouble ignoring node_modules
 
@@ -85,7 +85,7 @@
 </ol>
  
 ---
-
+---
 
 ### GIT commands for pushing changes to repo:
 
