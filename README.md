@@ -45,13 +45,12 @@
   ```HTML
   node_modules/
   ```
-
----
----
-
-###Probable cause if you're having trouble ignoring node_modules:
-
 </ol>
+
+---
+---
+
+### Probable cause if you're having trouble ignoring node_modules:
 
 <ol>
   <li>Ensure node_modules is listed in .gitignore:</li>
